@@ -1,2 +1,2 @@
-# docs
-Threat Patrols Docs
+
+Public repo for https://docs.threatpatrols.com/
