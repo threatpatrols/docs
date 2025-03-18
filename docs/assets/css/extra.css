@@ -15,7 +15,3 @@
 :root  > * {
   --md-primary-fg-color:        #DE733C;
 }
-
-div.md-source__repository ul.md-source__facts {
-    display: none;
-}
