@@ -1,5 +1,7 @@
+<a href="https://www.threatpatrols.com">
 <img src="assets/img/threatpatrols-eyeprint-banner-black-344×90.png#only-light" style="height: 70px; float: right; margin-left: 24px; margin-bottom: 24px">
 <img src="assets/img/threatpatrols-eyeprint-banner-white-344×90.png#only-dark" style="height: 70px; float: right; margin-left: 24px; margin-bottom: 24px">
+</a>
 
 # Threat Patrols Projects
 

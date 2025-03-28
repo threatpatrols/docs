@@ -5,6 +5,7 @@ nav:
   - Threat Patrols Docs:
       - Projects: index.md
       - About Us: about.md
+      - Website: https://www.threatpatrols.com
 
 exclude_docs: |
   !.github
