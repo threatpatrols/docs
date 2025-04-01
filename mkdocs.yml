@@ -63,6 +63,7 @@ theme:
     - navigation.top            # A back-to-top button can be shown when the user, after scrolling down, starts to scroll up again. It's rendered centered and just below the header.
     - navigation.tabs           # When tabs are enabled, top-level sections are rendered in a menu layer below the header for viewports above 1220px, but remain as-is on mobile.
     - navigation.tabs.sticky    # When sticky tabs are enabled, navigation tabs will lock below the header and always remain visible when scrolling down.
+    - content.code.copy         # Code blocks can automatically render a button on the right side to allow the user to copy a code block's contents to the clipboard
     - search.highlight
 
 # Additional configuration

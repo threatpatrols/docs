@@ -5,15 +5,15 @@
 
 # Threat Patrols Projects
 
-## Threat Patrols Actions
+## Threat Patrols Action
 
-**[threatpatrols.github.io/threatpatrols-actions](https://threatpatrols.github.io/threatpatrols-actions)**
+**[threatpatrols.github.io/threatpatrols-action](https://threatpatrols.github.io/threatpatrols-action/)**
 
-Threat Patrols Actions (TPAS) is our primary open-source framework for SecOps automation turning 
+Threat Patrols Action (TPAS) is our primary open-source framework for SecOps automation turning 
 security-practitioners into security automation super-heroes.
 
-Threat Patrols Actions are **[well known tools](https://threatpatrols-actions.github.io)** that have been 
-containerized, are kept up-to-date and wrapped with **callback features** that makes their use in continuous 
+Threat Patrols Actions are **[well known tools](https://threatpatrols.github.io/threatpatrols-action/actions/)** that 
+have been containerized, are kept up-to-date and wrapped with **callback features** that makes their use in continuous 
 security automation pipelines a delight.
 
   * Want to run `<favorite security tool here>` on a regular basis, store the results in a S3-bucket, get 
@@ -89,18 +89,18 @@ for -
 
 **[hub.docker.com/u/threatpatrols](https://hub.docker.com/u/threatpatrols)**
 
-Threat Patrols produces a good many containers for TPAS where we use the Github container repo `ghcr.io` to make those
-containers available.
+Threat Patrols produces a good many containers for TPAS where we use the Github Container Registry `ghcr.io` to make 
+those containers publicly available.
 
 Additionally, we maintain a collection of other Docker containers via Docker Hub.  A sample of these -  
 
-* **[threatpatrols/sshjumphost](https://hub.docker.com/r/threatpatrols/sshjumphost)** - much as the name suggests, a
-  container for easily deploying an SSH jumphost (bastion host) using environment variables for setup and configuration.
-* **[threatpatrols/autossh](https://hub.docker.com/r/threatpatrols/autossh)** - Autossh with pre-command injection 
-  useful for declaring container routes before `autossh` is invoked.
-* **[threatpatrols/cfwarp-syncthing](https://hub.docker.com/r/threatpatrols/cfwarp-syncthing)** - Run an instance 
-  of Syncthing in Docker with traffic via Cloudflare WARP.
-* **[threatpatrols/gophish-ducknweave](https://hub.docker.com/r/threatpatrols/gophish-ducknweave)** - Provides a 
-  dockerized Gophish instance with updates and modifications to avoid common spam/phish filtering triggers.
+* **[threatpatrols/sshjumphost](https://hub.docker.com/r/threatpatrols/sshjumphost)** - much as the name suggests, a container for easily deploying an SSH 
+  jumphost (bastion host) using environment variables for setup and configuration.
+* **[threatpatrols/autossh](https://hub.docker.com/r/threatpatrols/autossh)** - Autossh with pre-command injection  useful for declaring container 
+  routes before `autossh` is invoked.
+* **[threatpatrols/cfwarp-syncthing](https://hub.docker.com/r/threatpatrols/cfwarp-syncthing)** - Run an instance of Syncthing in Docker with traffic via 
+  Cloudflare WARP.
+* **[threatpatrols/gophish-ducknweave](https://hub.docker.com/r/threatpatrols/gophish-ducknweave)** - Provides a dockerized Gophish instance with updates 
+  and modifications to avoid common spam/phish filtering triggers.
 
 We publish plenty of others too, please check the Docker Hub repo.
