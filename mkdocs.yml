@@ -13,10 +13,10 @@ exclude_docs: |
 
 # Site
 # ===
-site_name: Threat Patrols Projects
+site_name: Threat Patrols Project Docs
 site_url: https://docs.threatpatrols.com/
 site_author: Threat Patrols Pty. Ltd.
-site_description: Threat Patrols Projects
+site_description: Threat Patrols Project Docs
 
 
 # Repo
